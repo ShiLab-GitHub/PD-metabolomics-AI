@@ -4,7 +4,7 @@
 
 This repository contains the data and Python scripts in support of the manuscript: Integrated metabolomics and machine learning approach to identify biomarkers and predict Parkinson's disease severity.  In this work, we develop ML models for PD detection and advanced analysis.
 
-![flow](D:\bit研\帕金森\github(1)\github\pic\flow.png)
+![flow](.\pic\flow.png)
 
 ## 2 Dataset
 
